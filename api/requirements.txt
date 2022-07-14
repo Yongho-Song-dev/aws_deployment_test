@@ -1,0 +1,13 @@
+anyio==3.4.0
+boto3==1.23.4
+botocore==1.26.4
+fastapi==0.75.2
+gunicorn==20.1.0
+
+pydantic==1.8.2
+PyMySQL==1.0.2
+
+pytz==2021.3
+starlette==0.19.1
+SQLAlchemy==1.4.27
+uvicorn[standard]==0.17.4
